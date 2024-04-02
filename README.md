@@ -1,6 +1,6 @@
 # Alamnax Bonuses
 
-Simples craeler crawler to fetch every alamanax bonuses days and serve into a file
+Simples crawler to fetch every alamanax bonuses days and serve into a file
 
 ## How to Run
 
