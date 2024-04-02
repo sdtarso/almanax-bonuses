@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A crawler to fetch all almanax bonuses and create some output files.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "fetch": "node index"
   },
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sdtarso/almanax-bonuses/issues"
   },
-  "homepage": "https://github.com/sdtarso/almanax-bonuses#readme"
+  "homepage": "https://github.com/sdtarso/almanax-bonuses#readme",
+  "dependencies": {
+    "node-fetch-cache": "^4.1.0"
+  }
 }
