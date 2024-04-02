@@ -17,7 +17,7 @@ npm run fetch
 ```
 
 By default it will create a alamax.json file under the `output` folder (not versioned).
-If you want to create a csv file, pass the json flag to the script like so.
+If you want to create a csv file, pass the csv flag to the script like so.
 
 ```bash
 npm run fetch -- csv
