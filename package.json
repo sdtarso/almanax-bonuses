@@ -1,0 +1,23 @@
+{
+  "name": "almanax-bonuses",
+  "version": "0.0.1",
+  "description": "A crawler to fetch all almanax bonuses and create some output files.",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdtarso/almanax-bonuses.git"
+  },
+  "keywords": [
+    "dofus",
+    "almanax"
+  ],
+  "author": "sdtarso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdtarso/almanax-bonuses/issues"
+  },
+  "homepage": "https://github.com/sdtarso/almanax-bonuses#readme"
+}
